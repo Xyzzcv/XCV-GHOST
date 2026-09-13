@@ -122,7 +122,7 @@ def main():
         return
 
     parser = argparse.ArgumentParser(
-        description="XCV-GHOST - Cybersecurity CLI Framework by xcv (@fatih_onee)",
+        description="XCV-GHOST - Cybersecurity CLI Framework by xcv and yogarmdn(@fatih_onee)",
         usage="ghost [module] [command] [options]",
         add_help=False
     )
