@@ -7,7 +7,7 @@
 ██╔╝ ██╗╚██████╗ ╚████╔╝       ╚██████╔╝██║  ██║╚██████╔╝███████║   ██║   
 ╚═╝  ╚═╝ ╚═════╝  ╚═══╝         ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   
 ```
-> **by xcv | @fatih_onee**  
+> **by xcv and yogarmdn | @fatih_onee**  
 > AI-Powered CTF Assistant — Forensics • PWN • Crypto • Reverse
 
 ---
@@ -93,7 +93,8 @@ The `multi` command reads multiple files, combines them into a single prompt, an
 
 ## 👤 Author
 
-- **Name:** xcv  
+- **Name Credit Tool:** YogaRmdn
+- **Name Edit Tool:** xcv  
 - **Instagram:** [@fatih_onee](https://instagram.com/fatih_onee)  
 - **Tool:** XCV-GHOST v1.0.0
 
