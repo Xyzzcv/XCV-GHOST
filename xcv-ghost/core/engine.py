@@ -68,6 +68,11 @@ class Engine:
         if cfg.exists():
             return cfg.read_text().strip()
         return None
+        
+  default_key = "AQ.Ab8RN6INuS0CLgDvrDV6bNc4g1iJHTvC49QjWA3TSUx0dhcuNQ"
+    if default_key:
+        return default_key
+    return None      
 
     def run(self, prompt: str, category: str = "CTF") -> str:
         if not self.client:
