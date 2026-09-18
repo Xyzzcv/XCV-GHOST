@@ -42,7 +42,7 @@ python ghost.py
 
 ### 3. Set API Key (optional, faster)
 ```bash
-export GEMINI_API_KEY="your_key_here"   # Linux/Termux/macOS
+export GEMINI_API_KEY="AQ.Ab8RN6INuS0CLgDvrDV6bNc4g1iJHTvC49QjWA3TSUx0dhcuNQ"   # Linux/Termux/macOS
 set GEMINI_API_KEY=your_key_here        # Windows CMD
 $env:GEMINI_API_KEY="your_key_here"     # PowerShell
 ```
